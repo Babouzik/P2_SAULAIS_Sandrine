@@ -695,7 +695,17 @@ body {
 
 }
 
+@media (min-width:993px) and (max-width:1112px) {
 
+  #barre-de-filtres {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 13px;
+    
+  }
+
+}
 
 @media (max-width: 992px) and (min-width:769px) {
 
