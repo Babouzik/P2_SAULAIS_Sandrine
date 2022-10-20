@@ -242,7 +242,7 @@ ul {
   margin-right: -60px;
   height: auto;
   width: 100%;
-  margin-left: 30px;
+  margin-left: 50px;
 }
 
 .hebergements {
@@ -281,7 +281,7 @@ ul {
   border-radius: 20px;
   background-color: white;
   box-shadow: 3px 3px 7px 3px rgb(196, 193, 193);
-  padding: 0.375rem;
+  padding: 6px;
   box-sizing: border-box;
 } 
 
@@ -339,7 +339,7 @@ ul {
 
 .afficher-plus {
   margin-top: 50px;
-  margin-left: 5%;
+  margin-left: 20px;
 }
 
 .afficher-plus  a {
@@ -412,7 +412,7 @@ ul {
   box-shadow: 3px 3px 7px 3px rgb(196, 193, 193);
   margin-top: 18px;
   margin-bottom: 5%;
-  padding: 0.375rem;
+  padding: 6px;
 }
 
 
@@ -454,7 +454,7 @@ ul {
 
 .activites-a-marseille h1 {
   margin-bottom: 2%;
-  margin-left: 45px;
+  margin-left: 50px;
 }
 
 .activites-a-marseille h3 {
@@ -476,7 +476,7 @@ ul {
   height: auto;
   border-radius: 20px;
   margin-top: -25px;
-  margin-left: 25px;
+  margin-left: 30px;
 }
 
 .colonne {
@@ -633,6 +633,7 @@ body {
   
   .hebergements-activites {
     margin-left: auto;
+    padding-bottom: 0;
   }
 
   .conteneur-filtre {
@@ -823,7 +824,7 @@ body {
   
   .titre-les-plus-populaires {
     margin-left: 14px;
-    padding-bottom: -100px;  
+     
   }
   
   .titre-les-plus-populaires h1 {
@@ -982,7 +983,7 @@ body {
   }
   
   .colonne {
-    width: auto;
+    width: 100%;
     height: auto;
     margin-right: 30px;
     margin-left: 10px;
@@ -992,7 +993,7 @@ body {
   }
   
   .colonne a {
-    margin: 15px;
+    margin: 18px;
     margin-left: 15px;
     margin-right: 0px;
   }
@@ -1037,7 +1038,7 @@ body {
     height: 250px;
     display: flex;
     flex-direction: column;
-    margin-top: -15px;
+    margin-top: -13px;
   }
   
   .carte-activites-colonne-D img { 
@@ -1354,7 +1355,7 @@ body {
 
 .activites-a-marseille {
   height: auto;
-  margin-right: -35px;
+  
 }
 
 #conteneur-activites {
